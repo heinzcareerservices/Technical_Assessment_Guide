@@ -1,5 +1,7 @@
 # Technical_Assessment_Guide
-TL;DR : Capturing the industry &amp; function-wise pattern of questions typically asked in written technical assessments
+**TL;DR :** Capturing the industry &amp; function-wise pattern of questions typically asked in written technical assessments
+
+                                                          **Resource Objective**
 
 The objective of the project is to create a structured online repository of the questions that are typically asked in technical written assessments.
 
