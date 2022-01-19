@@ -1,0 +1,22 @@
+A data analyst collects, cleans, and interprets data sets in order to answer a question or
+solve a problem. They can work in many industries, including business, finance, criminal justice,
+science, medicine, and government.
+
+Data analysts conduct the process of gleaning insights from data to help inform better business
+decisions. The process of analyzing data typically moves through five iterative phases:
+
+1. Identify the data you want to analyze
+2. Collect the data
+3. Clean the data in preparation for analysis
+4. Model/Analyze the data
+5. Interpret the results of the analysis
+
+What tools do Data Analysts use?
+
+-Microsoft Excel
+-SQL
+-Tableau
+-R or Python
+-SAS
+-Microsoft Power BI
+-Jupyter Notebooks
