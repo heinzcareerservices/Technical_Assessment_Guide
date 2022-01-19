@@ -1,0 +1,10 @@
+QUESTION:
+'People who bought this also bought…' recommendations seen on Amazon are a result of which algorithm?
+
+
+ANSWER:
+The recommendation engine is accomplished with collaborative filtering. Collaborative filtering explains the behavior of other users and their purchase history in terms of ratings, selection, etc. 
+
+The engine makes predictions on what might interest a person based on the preferences of other users. In this algorithm, item features are unknown.
+
+For example, a sales page shows that a certain number of people buy a new phone and also buy tempered glass at the same time. Next time, when a person buys a phone, he or she may see a recommendation to buy tempered glass as well.

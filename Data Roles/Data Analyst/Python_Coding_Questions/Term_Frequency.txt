@@ -1,0 +1,19 @@
+QUESTION
+
+Say you are given a text document in the form of a string with the following sentences:
+
+Input
+
+document = "I have a nice car with a nice tires"
+Output
+
+{
+"I":0.11,
+"have":0.11,
+"a":0.22,
+"nice":0.22,
+"car": 0.11,
+"with":0.11,
+"tires":0.11
+}
+Write a program in python to determine the TF (term frequency) values for each term of this document.
