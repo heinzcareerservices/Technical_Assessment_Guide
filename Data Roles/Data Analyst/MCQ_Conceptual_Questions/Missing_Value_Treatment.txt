@@ -1,0 +1,13 @@
+QUESTION:
+Which of the following machine learning algorithms can be used for inputting missing values of both categorical and continuous variables?
+
+
+ANSWER:
+1. K-means clustering
+2. Linear regression 
+3. K-NN (k-nearest neighbor)
+
+Decision trees 
+The K nearest neighbor algorithm can be used because it can compute the nearest neighbor and if it doesn't have a value, it just computes the nearest neighbor based on all the other features. 
+
+When you're dealing with K-means clustering or linear regression, you need to do that in your pre-processing, otherwise, they'll crash. Decision trees also have the same problem, although there is some variance.

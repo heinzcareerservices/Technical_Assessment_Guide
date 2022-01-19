@@ -1,0 +1,22 @@
+QUESTION:
+What are the feature selection methods used to select the right variables?
+
+
+SOLUTION:
+
+There are two main methods for feature selection, i.e, filter, and wrapper methods.
+
+Filter Methods:
+-Linear discrimination analysis
+-ANOVA
+-Chi-Square
+
+The best analogy for selecting features is "bad data in, bad answer out." When we're limiting or selecting the features, it's all about cleaning up the data coming in. 
+
+Wrapper Methods:
+
+-Forward Selection: We test one feature at a time and keep adding them until we get a good fit
+-Backward Selection: We test all the features and start removing them to see what works better
+-Recursive Feature Elimination: Recursively looks through all the different features and how they pair together
+
+Wrapper methods are very labor-intensive, and high-end computers are needed if a lot of data analysis is performed with the wrapper method. 

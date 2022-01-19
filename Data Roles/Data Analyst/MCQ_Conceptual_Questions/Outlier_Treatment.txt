@@ -1,0 +1,15 @@
+QUESTION:
+How can outlier values be treated?
+
+ANSWER:
+You can drop outliers only if it is a garbage value. 
+
+Example: height of an adult = abc ft. This cannot be true, as the height cannot be a string value. In this case, outliers can be removed.
+
+If the outliers have extreme values, they can be removed. For example, if all the data points are clustered between zero to 10, but one point lies at 100, then we can remove this point.
+
+If you cannot drop outliers, you can try the following:
+
+1. Try a different model. Data detected as outliers by linear models can be fit by nonlinear models. Therefore, be sure you are choosing the correct model.
+2. Try normalizing the data. This way, the extreme data points are pulled to a similar range.
+3. You can use algorithms that are less affected by outliers; an example would be random forests. 

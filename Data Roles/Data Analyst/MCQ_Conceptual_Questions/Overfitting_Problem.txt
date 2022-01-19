@@ -1,0 +1,9 @@
+QUESTION:
+How can you avoid overfitting your model?
+
+ANSWER:
+Overfitting refers to a model that is only set for a very small amount of data and ignores the bigger picture. There are three main methods to avoid overfitting:
+
+1. Keep the model simple—take fewer variables into account, thereby removing some of the noise in the training data
+2. Use cross-validation techniques, such as k folds cross-validation 
+3. Use regularization techniques, such as LASSO, that penalize certain model parameters if they're likely to cause overfitting

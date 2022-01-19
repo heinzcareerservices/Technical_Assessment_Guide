@@ -1,0 +1,15 @@
+QUESTION:
+What is the significance of p-value?
+
+ANSWER:
+p-value typically ≤ 0.05
+
+This indicates strong evidence against the null hypothesis; so you reject the null hypothesis.
+
+p-value typically > 0.05
+
+This indicates weak evidence against the null hypothesis, so you accept the null hypothesis. 
+
+p-value at cutoff 0.05 
+
+This is considered to be marginal, meaning it could go either way.

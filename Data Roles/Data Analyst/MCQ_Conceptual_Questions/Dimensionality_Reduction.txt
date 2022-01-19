@@ -1,0 +1,9 @@
+QUESTION:
+What are dimensionality reduction and its benefits?
+
+
+ANSWER:
+The Dimensionality reduction refers to the process of converting a data set with vast dimensions into data with fewer dimensions (fields) to convey similar information concisely. 
+
+This reduction helps in compressing data and reducing storage space. It also reduces computation time as fewer dimensions lead to less computing. It removes redundant features;
+for example, there's no point in storing a value in two different units (meters and inches). 

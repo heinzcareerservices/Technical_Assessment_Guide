@@ -1,0 +1,17 @@
+QUESTION:
+How should you maintain a deployed model?
+
+ANSWER:
+The steps to maintain a deployed model are:
+
+1. Monitor 
+Constant monitoring of all models is needed to determine their performance accuracy. When you change something, you want to figure out how your changes are going to affect things. This needs to be monitored to ensure it's doing what it's supposed to do.
+
+2. Evaluate
+Evaluation metrics of the current model are calculated to determine if a new algorithm is needed. 
+
+3. Compare
+The new models are compared to each other to determine which model performs the best. 
+
+4. Rebuild
+The best performing model is re-built on the current state of data.

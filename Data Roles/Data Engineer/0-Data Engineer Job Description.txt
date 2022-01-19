@@ -1,0 +1,29 @@
+The main role of Data Engineers is to put together all data infrastructure which is then analysed by Data Scientists and used for analytical or operational purposes.
+
+Data Engineers are highly skilled and technical people who create software solutions around data, usually using Java, Scala, or Python. They should possess extensive knowledge of creating data products and data pipelines
+meaning the way data is extracted, processed, and used to bring a certain value.
+
+COMMON TASKS:
+
+-Acquire datasets that align with business needs
+-Develop algorithms to transform data into useful, actionable information
+-Build, test, and maintain database pipeline architectures
+-Collaborate with management to understand company objectives
+-Create new data validation methods and data analysis tools
+-Ensure compliance with data governance and security policies
+
+
+SKILLS NEEDED:
+
+Learn the fundamentals of cloud computing, coding skills, and database design
+
+1. Coding: Proficiency in coding languages is essential to this role, so consider taking courses to learn and practice your skills. Common programming languages includeSQL, NoSQL, Python, Java, R, and Scala.
+2. Relational and non-relational databases: Databases rank among the most common solutions for data storage. You should be familiar with both relational and non-relational databases, and how they work.
+3. ETL (extract, transform, and load) systems: ETL is the process by which you’ll move data from databases and other sources into a single repository, like a data warehouse. Common ETL tools include Xplenty, Stitch, Alooma, and Talend.
+4. Data storage: Not all types of data should be stored the same way, especially when it comes to big data. As you design data solutions for a company, you’ll want to know when to use a data lake versus a data warehouse, for example.
+6. Automation and scripting. Automation is a necessary part of working with big data simply because organizations are able to collect so much information. You should be able to write scripts to automate repetitive tasks.
+7. Machine learning: While machine learning is more the concern of data scientists, it can be helpful to have a grasp of the basic concepts to better understand the needs of data scientists on your team. 
+8. Big data tools: Data engineers don’t just work with regular data. They’re often tasked with managing big data. Tools and technologies are evolving and vary by company, but some popular ones include Hadoop, MongoDB, and Kafka.
+9. Cloud computing. You’ll need to understand cloud storage and cloud computing as companies increasingly trade physical servers for cloud services. Beginners may consider a course in Amazon Web Services (AWS) or Google Cloud.
+10. Data security: While some companies might have dedicated data security teams, many data engineers are still tasked with securely managing and storing data to protect it from loss or theft.
+ 
