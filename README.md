@@ -1,5 +1,5 @@
 # Technical_Assessment_Guide
-**TL;DR :** Capturing the industry &amp; function-wise pattern of questions typically asked in written technical assessments
+**TL;DR :** Capturing the function-wise pattern of questions typically asked in written technical assessments
 
 
    **Resource Objective**
